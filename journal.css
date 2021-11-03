@@ -7,4 +7,18 @@
 
 h1 {
   font-family: "Emblema One", sans-serif;
+  font-size: 220%; /* 2.2em */
+}
+
+h2 {
+  font-size: 130%;
+  font-weight: normal;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+body {
+  font-family: Verdana, Geneva, Arial, sans-serif;
 }
