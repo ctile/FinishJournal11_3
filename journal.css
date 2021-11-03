@@ -15,6 +15,16 @@ h2 {
   font-weight: normal;
 }
 
+h1,
+h2 {
+  border-bottom: thin dotted #888888;
+  /*color: #cc6600;*/
+  /*color: #c60;*/
+  /*color: rgba(204, 102, 0, 1);*/
+  /*204/255*100 = 80, 102/255*100 =40*/
+  color: rgba(80%, 40%, 0%, 1);
+}
+
 blockquote {
   font-style: italic;
 }
